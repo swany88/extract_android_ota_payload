@@ -1,5 +1,7 @@
 # extract_android_ota_payload.py
 
+Create venv of Python 3.9 > install requirements
+
 Extract Android firmware images from an OTA payload.bin file.
 
 With the introduction of the A/B system update, the OTA file format changed.
