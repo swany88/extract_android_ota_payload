@@ -1,4 +1,4 @@
-# extract_android_ota_payload.py
+# Not mine just updated the requirements to get it working on my machine
 
 Create venv of Python 3.9 > install requirements
 
